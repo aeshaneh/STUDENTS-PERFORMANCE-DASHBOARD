@@ -19,7 +19,8 @@ This project analyzes the **Students Performance Dataset** from [Kaggle](https:/
 * **Preparation Effect:** Students completing prep courses score significantly higher.
 * **Ethnic Group Trends:** Group E shows the highest overall performance.
 
-![Dashboard Screenshot](Screenshot%20of%20Students%20Performance%20Dashboard.png)
+<img width="970" height="546" alt="Screenshot of Students Performance Dashboard" src="https://github.com/user-attachments/assets/c763cafd-43f5-4af9-b4ba-adae6b1bedd4" />
+
 
 ## 🚀 Tools & Technologies
 
